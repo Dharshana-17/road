@@ -18,7 +18,7 @@ header {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	height: 50px;
+	height: 80px;
 	padding: 0 2rem;
 	background-color: var(--mainColor);
 	color: var(--textColor);
@@ -69,8 +69,7 @@ nav {
 		align-items: center;
 		justify-content: center;
 		gap: 1.5rem;
-		background: transparent;
-		/* background-color: var(--mainColor); */
+		background-color: var(--mainColor);
 		transition: 1s;
 		transform: translateY(-100vh);
 	}
