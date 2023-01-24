@@ -17,9 +17,11 @@ function Navbar() {
 			<img style={{height: "50px"}} src="https://pps.whatsapp.net/v/t61.24694-24/322460561_140629475501171_8142685504268003046_n.jpg?ccb=11-4&oh=01_AdRc-8TUVq9q9fbd7Un54Y3i-RhEI_14bHK4n1Gn7uS0yA&oe=63DBA97B"/>
 			<nav ref={navRef}>
 				<a href="/#">Home</a>
-				<a href="/#">My work</a>
-				<a href="/#">Blog</a>
-				<a href="/#">About me</a>
+				<a href="/#">Gallery</a>
+				<a href="/#">Our Team</a>
+				<a href="/#">About Us</a>
+				<a href="/#">Contact Us	</a>
+
 				<button
 					className="nav-btn nav-close-btn"
 					onClick={showNavbar} >
