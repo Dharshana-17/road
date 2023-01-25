@@ -18,8 +18,8 @@ function Navbar() {
 			<nav ref={navRef}>
 				<a href="/#">Home</a>
 				<a href="/#">Gallery</a>
-				<a href="/#">Our Team</a>
-				<a href="/#">About Us</a>
+				<a href="/#our-team">Our Team</a>
+				<a href="/#about">About Us</a>
 				<a href="/#">Contact Us	</a>
 
 				<button
