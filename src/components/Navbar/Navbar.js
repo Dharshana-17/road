@@ -20,7 +20,7 @@ function Navbar() {
 				<a href="/#">Gallery</a>
 				<a href="/#our-team">Our Team</a>
 				<a href="/#about">About Us</a>
-				<a href="/#">Contact Us	</a>
+				<a href="/#contact-us">Contact Us	</a>
 
 				<button
 					className="nav-btn nav-close-btn"

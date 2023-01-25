@@ -1,20 +1,24 @@
-import React from 'react';
-import './App.css';
-import AboutUs from './components/Home/AboutUs';
-import Home from './components/Home/Home';
-import OurTeam from './components/Home/OurTeam';
-import Nav from './components/Navbar/Nav';
-import Navbar from './components/Navbar/Navbar';
+import React from "react";
+import "./App.css";
+import AboutUs from "./components/Home/AboutUs";
+import ContactUs from "./components/Home/ContactUs";
+import Footer from "./components/Home/Footer";
+import Home from "./components/Home/Home";
+import OurTeam from "./components/Home/OurTeam";
+import Nav from "./components/Navbar/Nav";
+import Navbar from "./components/Navbar/Navbar";
 
 function App() {
   return (
-   <React.Fragment>
-    <OurTeam/>
-   {/* <Nav/> */}
-    <Navbar/>
-    < Home/>
-    <AboutUs/>
-   </React.Fragment>
+    <React.Fragment>
+      {/* <Nav/> */}
+      <Navbar />
+      <Home />
+      <AboutUs />
+      <OurTeam />
+      <ContactUs />
+      <Footer />
+    </React.Fragment>
   );
 }
 
