@@ -2,7 +2,7 @@ import React from "react";
 
 function ContactUs() {
   return (
-    <section class="bg-light py-5" id="contact-us">
+    <section class="bg-light py-5" id="contact-us" style={{textDecoration: "none" }}>
       <div class="container py-5">
         <header class="mb-5 pb-4">
           <p class="fw-bold text-primary text-uppercase letter-spacing-3">
