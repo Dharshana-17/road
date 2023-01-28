@@ -9,12 +9,20 @@ function AboutUs() {
             <div class="col-lg-6">
               <h1 class="display-4">About us</h1>
               <p class="lead text-muted mb-0">
-                The firm has previously worked with entities from South Africa,
-                United Kingdom, United Arab Emirates, and India to undertake
-                large engineering projects on PPP, BOT, and EPC models.
-                Associated Construction is the company that built Masalani
-                Suspension Bridge – a 136m long self-anchored steel suspension
-                bridge across River Tana in Masalani, Garissa County.
+                Siran Construction Limited. is an ambitious construction company
+                that specializes in residential and commercial building
+                projects. With a team of highly skilled and experienced
+                professionals, they are committed to delivering high-quality
+                workmanship and exceptional customer service. They have
+                extensive experience in all aspects of construction, including
+                project management, site preparation, and finish work. They are
+                known for their attention to detail and ability to work closely
+                with clients to ensure that their vision is brought to life.
+                They are dedicated to building sustainable and energy-efficient
+                structures, and use the latest technologies and building
+                materials to ensure that their projects are built to last. With
+                a strong commitment to safety and a passion for excellence, Siran
+                is poised to become a leader in the industry.
               </p>
               <p class="lead text-muted">
                 Snippet by{" "}
@@ -23,11 +31,12 @@ function AboutUs() {
                 </a>
               </p>
             </div>
-            <div class="col-lg-6 d-none d-lg-block"  >
+            <div class="col-lg-6 d-none d-lg-block">
               <img
                 src="https://images.unsplash.com/photo-1579847188804-ecba0e2ea330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNvbnN0cnVjdGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
                 alt=""
-                class="img-fluid" style={{border: "none" }}
+                class="img-fluid"
+                style={{ border: "none" }}
               />
             </div>
           </div>
@@ -78,10 +87,6 @@ function AboutUs() {
           </div>
         </div>
       </div>
-
-
-
-      
     </div>
   );
 }

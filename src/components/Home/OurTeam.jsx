@@ -21,7 +21,7 @@ function OurTeam() {
             <div class="col-xl-3 col-sm-6 mb-5">
               <div class="bg-white rounded shadow-sm py-5 px-4">
                 <img
-                  src="https://static.vecteezy.com/system/resources/thumbnails/002/002/403/small/man-with-beard-avatar-character-isolated-icon-free-vector.jpg"
+                  src="https://pps.whatsapp.net/v/t61.24694-24/322309985_861512865121106_4533355681196475721_n.jpg?ccb=11-4&oh=01_AdRUw7xplN8TBPBnlf5yLcvON_e6yiJWn6KdQYLwQ-h-HA&oe=63E21ED8"
                   alt=""
                   width="100"
                   class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"
@@ -58,7 +58,7 @@ function OurTeam() {
             <div class="col-xl-3 col-sm-6 mb-5">
               <div class="bg-white rounded shadow-sm py-5 px-4">
                 <img
-                  src="https://bootstrapious.com/i/snippets/sn-about/avatar-3.png"
+                  src="https://pps.whatsapp.net/v/t61.24694-24/317750642_127977076816767_3555894260356548920_n.jpg?ccb=11-4&oh=01_AdTtNcWJ1S0-iT1cD4ZpvdNX8B53pMpW8X-6f5r8Hjm2Jw&oe=63E23CC7"
                   alt=""
                   width="100"
                   class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"
@@ -132,7 +132,7 @@ function OurTeam() {
             <div class="col-xl-3 col-sm-6 mb-5">
               <div class="bg-white rounded shadow-sm py-5 px-4">
                 <img
-                  src="https://bootstrapious.com/i/snippets/sn-about/avatar-2.png"
+                  src="https://pps.whatsapp.net/v/t61.24694-24/320092508_894543558532804_914559014706703862_n.jpg?ccb=11-4&oh=01_AdRZWlmvmlUcssowR82gXJFKkL4hHoxUP4Rmc8tFIt0B_w&oe=63E218B0"
                   alt=""
                   width="100"
                   class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"
@@ -171,25 +171,30 @@ function OurTeam() {
 
       {/* //   start carousell */}
 
-      <Carousel className="container">
+      <Carousel className="container-dark">
         <Carousel.Item className="text-center carousel slide text-center carousel-dark">
           <div class="carosel-item active">
             <img
-              class="rounded-circle shadow-1-strong mb-4"
-              src="https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+              width="200"
+              class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"
+              src="https://pps.whatsapp.net/v/t61.24694-24/322309985_861512865121106_4533355681196475721_n.jpg?ccb=11-4&oh=01_AdRUw7xplN8TBPBnlf5yLcvON_e6yiJWn6KdQYLwQ-h-HA&oe=63E21ED8"
               alt="avatar"
-              style={{ height: "180px", width: "150px" }}
             />
             <div class="row d-flex justify-content-center">
               <div class="col-lg-8">
-                <h5 class="mb-3">Maria Kate</h5>
-                <p>Photographer</p>
+                <h5 class="mb-3">Victor</h5>
+                <p>CEO</p>
                 <p class="text-muted">
                   <i class="fas fa-quote-left pe-2"></i>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-                  et deleniti nesciunt sint eligendi reprehenderit reiciendis,
-                  quibusdam illo, beatae quia fugit consequatur laudantium velit
-                  magnam error. Consectetur distinctio fugit doloremque.
+                  Victor is a highly qualified and experienced Civil Engineer
+                  with over 15 years of experience in the industry. He holds a
+                  Bachelor's degree in Civil Engineering and is a licensed
+                  Professional Engineer. Victor has a diverse background in both
+                  public and private sector projects, including transportation,
+                  water resources, and structural engineering. She has a proven
+                  track record of delivering projects on time and within budget,
+                  and is known for her strong problem-solving skills and ability
+                  to work well in a team
                 </p>
               </div>
             </div>
@@ -215,21 +220,25 @@ function OurTeam() {
         <Carousel.Item className="text-center carousel slide text-center carousel-dark">
           <div class="carosel-item">
             <img
-              class="rounded-circle shadow-1-strong mb-4"
-              src="https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+              width="200"
+              class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"
+              src="https://pps.whatsapp.net/v/t61.24694-24/317750642_127977076816767_3555894260356548920_n.jpg?ccb=11-4&oh=01_AdTtNcWJ1S0-iT1cD4ZpvdNX8B53pMpW8X-6f5r8Hjm2Jw&oe=63E23CC7"
               alt="avatar"
-              style={{ height: "180px", width: "150px" }}
             />
             <div class="row d-flex justify-content-center">
               <div class="col-lg-8">
-                <h5 class="mb-3">Maria Kate</h5>
-                <p>Photographer</p>
+                <h5 class="mb-3">Alfred Kaptum</h5>
+                <p>Quantity Surveyor</p>
                 <p class="text-muted">
                   <i class="fas fa-quote-left pe-2"></i>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-                  et deleniti nesciunt sint eligendi reprehenderit reiciendis,
-                  quibusdam illo, beatae quia fugit consequatur laudantium velit
-                  magnam error. Consectetur distinctio fugit doloremque.
+                  Alfred Kaptum is a highly skilled and experienced Quantity
+                  Surveyor with over 5 years of experience in the construction
+                  industry. He holds a Bachelor's degree in Quantity Surveying.
+                  He is known for his attention to detail, ability to work well
+                  under pressure, and excellent communication skills. Alfred is
+                  dedicated to delivering projects on time and within budget,
+                  and is committed to achieving the highest standards of quality
+                  and safety.
                 </p>
               </div>
             </div>
@@ -255,21 +264,29 @@ function OurTeam() {
         <Carousel.Item className="text-center carousel slide text-center carousel-dark">
           <div class="carosel-item">
             <img
-              class="rounded-circle shadow-1-strong mb-4"
-              src="https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+              width="200"
+              class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"
+              src="https://pps.whatsapp.net/v/t61.24694-24/320092508_894543558532804_914559014706703862_n.jpg?ccb=11-4&oh=01_AdRZWlmvmlUcssowR82gXJFKkL4hHoxUP4Rmc8tFIt0B_w&oe=63E218B0"
               alt="avatar"
-              style={{ height: "180px", width: "150px" }}
             />
             <div class="row d-flex justify-content-center">
               <div class="col-lg-8">
-                <h5 class="mb-3">Maria Kate</h5>
-                <p>Photographer</p>
+                <h5 class="mb-3">Jason Kiptoo</h5>
+                <p>Software Developer</p>
                 <p class="text-muted">
                   <i class="fas fa-quote-left pe-2"></i>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-                  et deleniti nesciunt sint eligendi reprehenderit reiciendis,
-                  quibusdam illo, beatae quia fugit consequatur laudantium velit
-                  magnam error. Consectetur distinctio fugit doloremque.
+                  Jason Kiptoo is a highly skilled software engineer with over 5
+                  years of experience in the industry. He has a strong
+                  background in both front-end and back-end development, with a
+                  particular focus on developing web applications using
+                  technologies such as JavaScript, React. Jason is
+                  also well-versed in database design and management, and has
+                  experience working with MySQL, MongoDB, and PostgreSQL. He is
+                  a quick learner and is always eager to stay up to date with
+                  the latest technologies and industry trends. In addition to
+                  his technical abilities, Jason is also a strong communicator
+                  and team player, making him a valuable asset to any
+                  development team.
                 </p>
               </div>
             </div>
