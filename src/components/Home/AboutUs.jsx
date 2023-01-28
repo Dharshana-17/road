@@ -21,8 +21,8 @@ function AboutUs() {
                 They are dedicated to building sustainable and energy-efficient
                 structures, and use the latest technologies and building
                 materials to ensure that their projects are built to last. With
-                a strong commitment to safety and a passion for excellence, Siran
-                is poised to become a leader in the industry.
+                a strong commitment to safety and a passion for excellence,
+                Siran is poised to become a leader in the industry.
               </p>
               <p class="lead text-muted">
                 Snippet by{" "}
@@ -30,6 +30,10 @@ function AboutUs() {
                   <u>Siran Construction Limited</u>
                 </a>
               </p>
+
+              <blockquote class="blockquote text-center">
+                <p class="mb-0">"Building your dreams, brick by brick"</p>
+              </blockquote>
             </div>
             <div class="col-lg-6 d-none d-lg-block">
               <img
@@ -48,10 +52,23 @@ function AboutUs() {
           <div class="row align-items-center mb-5">
             <div class="col-lg-6 order-2 order-lg-1">
               <i class="fa fa-bar-chart fa-2x mb-3 text-primary"></i>
-              <h2 class="font-weight-light">Lorem ipsum dolor sit amet</h2>
+              <h2 class="font-weight-light">Transforming spaces, creating foundations for the future</h2>
               <p class="font-italic text-muted mb-4">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Our team of experienced professionals is dedicated to delivering
+                high-quality workmanship and unparalleled customer service. We
+                are committed to using sustainable materials and practices, such
+                as recycling construction waste and using energy-efficient
+                technologies. We also place a strong emphasis on safety, not
+                just for our team members but for the environment as well. This
+                includes proper disposal of hazardous materials and adhering to
+                all environmental regulations. In addition, we make it a point
+                to educate ourselves and our team members on the latest
+                technologies, materials, and practices that promote
+                sustainability in the construction industry. At Siran
+                Construction Limited, we are proud to be known as an
+                environmentally responsible company that not only builds
+                beautiful structures but also takes into account the impact on
+                the environment.
               </p>
               <a href="#" class="btn btn-light px-5 rounded-pill shadow-sm">
                 Learn More
@@ -75,10 +92,27 @@ function AboutUs() {
             </div>
             <div class="col-lg-6">
               <i class="fa fa-leaf fa-2x mb-3 text-primary"></i>
-              <h2 class="font-weight-light">Lorem ipsum dolor sit amet</h2>
+              <h2 class="font-weight-light">
+                Build your dream space, brick by brick
+              </h2>
               <p class="font-italic text-muted mb-4">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                At Siran Construction Limited, we specialize in providing
+                top-notch construction services for residential and commercial
+                projects. Our team of experienced professionals is dedicated to
+                delivering exceptional workmanship and unparalleled customer
+                service. We understand that every project is unique, and we work
+                closely with our clients to bring their vision to life. From
+                site preparation to finish work, we pay attention to every
+                detail to ensure that our projects are built to last. We at
+                Siran Construction Limited, safety is our top priority. We are
+                dedicated to maintaining a safe working environment for our team
+                and our clients. We also committed to building sustainable and
+                energy-efficient structures, using the latest technologies and
+                building materials available in the market. With our commitment
+                to excellence, we strive to be a leader in the construction
+                industry. Trust us to build your dream space, brick by brick.
+                Thank you for considering Siran Construction Limited. for your
+                next project.
               </p>
               <a href="#" class="btn btn-light px-5 rounded-pill shadow-sm">
                 Learn More
