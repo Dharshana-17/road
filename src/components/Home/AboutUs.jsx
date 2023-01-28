@@ -26,7 +26,7 @@ function AboutUs() {
               </p>
               <p class="lead text-muted">
                 Snippet by{" "}
-                <a href="https://bootstrapious.com/snipp" class="text-muted">
+                <a href="https://siranlimited.web.app/" class="text-muted">
                   <u>Siran Construction Limited</u>
                 </a>
               </p>
