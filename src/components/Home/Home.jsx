@@ -1,4 +1,5 @@
 import React from "react";
+import Gallery from "../Gallery/Gallery";
 import "./Home.css";
 
 function Home() {
@@ -25,7 +26,8 @@ function Home() {
           </div>
         </div>
       </section>
-      <section class="py-5 bg-light">
+      <Gallery/>
+      {/* <section class="py-5 bg-light">
         <div class="container py-5">
           <header class="mb-5">
             <p class="fw-bold text-primary text-uppercase letter-spacing-3">
@@ -54,7 +56,7 @@ function Home() {
             accusam et justo duo dolores et ea rebum.
           </p>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 }

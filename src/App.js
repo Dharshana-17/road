@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import Gallery from "./components/Gallery/Gallery";
 import AboutUs from "./components/Home/AboutUs";
 import ContactUs from "./components/Home/ContactUs";
 import Footer from "./components/Home/Footer";
@@ -14,6 +15,7 @@ function App() {
       {/* <Nav/> */}
       <Navbar />
       <Home />
+      {/* <Gallery /> */}
       <AboutUs />
       <OurTeam />
       <ContactUs />

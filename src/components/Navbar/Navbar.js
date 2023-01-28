@@ -22,7 +22,7 @@ function Navbar() {
         <a href="/#" onClick={showNavbar}>
           Home
         </a>
-        <a href="/#" onClick={showNavbar}>
+        <a href="/#gallery" onClick={showNavbar}>
           Gallery
         </a>
         <a href="/#our-team" onClick={showNavbar}>
