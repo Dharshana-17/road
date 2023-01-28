@@ -281,12 +281,7 @@ function OurTeam() {
                   particular focus on developing web applications using
                   technologies such as JavaScript, React. Jason is
                   also well-versed in database design and management, and has
-                  experience working with MySQL, MongoDB, and PostgreSQL. He is
-                  a quick learner and is always eager to stay up to date with
-                  the latest technologies and industry trends. In addition to
-                  his technical abilities, Jason is also a strong communicator
-                  and team player, making him a valuable asset to any
-                  development team.
+                  experience working with MySQL, MongoDB, and PostgreSQL. 
                 </p>
               </div>
             </div>

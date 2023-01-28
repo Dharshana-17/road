@@ -5,13 +5,10 @@ function ContactUs() {
     <section class="bg-light py-5" id="contact-us" style={{textDecoration: "none" }}>
       <div class="container py-5">
         <header class="mb-5 pb-4">
-          <p class="fw-bold text-primary text-uppercase letter-spacing-3">
-            Call me, maybe.
-          </p>
-          <h2 class="text lined pt-5">Get in touch with us today</h2>
+                   <h2 class="text lined pt-5">Get in touch with us today</h2>
         </header>
         <div class="row gy-4">
-          <div class="col-lg-3 col-md-6">
+          <div class="card col-lg-3 col-md-6">
             <a
               class="px-4 py-5 text-center contact-item shadow-sm reset-anchor d-block"
               href="#!"
@@ -21,7 +18,7 @@ function ContactUs() {
               <p class="text-sm mb-0">Nairobi, Kenya</p>
             </a>
           </div>
-          <div class="col-lg-3 col-md-6">
+          <div class="card col-lg-3 col-md-6">
             <a
               class="px-4 py-5 text-center contact-item shadow-sm reset-anchor d-block"
               href="tel:534456886"
@@ -31,7 +28,7 @@ function ContactUs() {
               <p class="text-sm mb-0">0712345678</p>
             </a>
           </div>
-          <div class="col-lg-3 col-md-6">
+          <div class="card col-lg-3 col-md-6">
             <a
               class="px-4 py-5 text-center contact-item shadow-sm reset-anchor d-block"
               href="www.example.com"
@@ -41,7 +38,7 @@ function ContactUs() {
               <p class="text-sm mb-0">www.siran.co.ke</p>
             </a>
           </div>
-          <div class="col-lg-3 col-md-6">
+          <div class="card col-lg-3 col-md-6">
             <a
               class="px-4 py-5 text-center contact-item shadow-sm reset-anchor d-block"
               href="mailto:info@example.com"
