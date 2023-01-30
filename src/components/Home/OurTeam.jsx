@@ -21,7 +21,7 @@ function OurTeam() {
             <div class="col-xl-3 col-sm-6 mb-5">
               <div class="bg-white rounded shadow-sm py-5 px-4">
                 <img
-                  src="https://pps.whatsapp.net/v/t61.24694-24/322309985_861512865121106_4533355681196475721_n.jpg?ccb=11-4&oh=01_AdRUw7xplN8TBPBnlf5yLcvON_e6yiJWn6KdQYLwQ-h-HA&oe=63E21ED8"
+                  src="https://pps.whatsapp.net/v/t61.24694-24/299477828_707810171129040_5063557053043317100_n.jpg?ccb=11-4&oh=01_AdSXrsLCMcMz1wLC0A-lRWSuS6KJEyZIGcuJDAphHhMbTA&oe=63E4E0A4"
                   alt=""
                   width="100"
                   class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"
@@ -177,18 +177,18 @@ function OurTeam() {
             <img
               width="200"
               class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"
-              src="https://pps.whatsapp.net/v/t61.24694-24/322309985_861512865121106_4533355681196475721_n.jpg?ccb=11-4&oh=01_AdRUw7xplN8TBPBnlf5yLcvON_e6yiJWn6KdQYLwQ-h-HA&oe=63E21ED8"
+              src="https://pps.whatsapp.net/v/t61.24694-24/299477828_707810171129040_5063557053043317100_n.jpg?ccb=11-4&oh=01_AdSXrsLCMcMz1wLC0A-lRWSuS6KJEyZIGcuJDAphHhMbTA&oe=63E4E0A4"
               alt="avatar"
             />
             <div class="row d-flex justify-content-center">
               <div class="col-lg-8">
-                <h5 class="mb-3">Victor</h5>
+                <h5 class="mb-3">Victor Kiplimo</h5>
                 <p>CEO</p>
                 <p class="text-muted">
                   <i class="fas fa-quote-left pe-2"></i>
                   Victor is a highly qualified and experienced Civil Engineer
-                  with over 15 years of experience in the industry. He holds a
-                  Bachelor's degree in Civil Engineering and is a licensed
+                  with over 5 years of experience in the industry. He holds a
+                  Diploma in Structural & Civil Engineering and is a licensed
                   Professional Engineer. Victor has a diverse background in both
                   public and private sector projects, including transportation,
                   water resources, and structural engineering. She has a proven
@@ -281,7 +281,7 @@ function OurTeam() {
                   particular focus on developing web applications using
                   technologies such as JavaScript, React. Jason is
                   also well-versed in database design and management, and has
-                  experience working with MySQL, MongoDB, and PostgreSQL. 
+                  experience working with MySQL, MongoDB, and PostgreSQL.
                 </p>
               </div>
             </div>

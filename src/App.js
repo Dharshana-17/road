@@ -12,7 +12,7 @@ import Navbar from "./components/Navbar/Navbar";
 function App() {
   return (
     <React.Fragment>
-      {/* <Nav/> */}
+      <Nav/>
       <Navbar />
       <Home />
       {/* <Gallery /> */}

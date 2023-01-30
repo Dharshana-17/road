@@ -1,5 +1,6 @@
 import React from "react";
 import Gallery from "../Gallery/Gallery";
+import Services from "../Services/Services";
 import "./Home.css";
 
 function Home() {
@@ -15,18 +16,18 @@ function Home() {
 
               <h2 class="h4 fw-normal mb-5">Siran Construction Limited</h2>
               <p class="text-shadow">
-                The firm has previously worked with entities from South Africa,
-                United Kingdom, United Arab Emirates, and India to undertake
-                large engineering projects on PPP, BOT, and EPC models.
-                Associated Construction is the company that built Masalani
-                Suspension Bridge – a 136m long self-anchored steel suspension
-                bridge across River Tana in Masalani, Garissa County.
+                Siran construction limited is a construction company formed on
+                August 2022.The Company is operating and located in Kenya. The
+                company offers engineering construction and construction project
+                management. Siran construction limited is dedicated to
+                organizations or individuals seeking construction services.
               </p>
             </div>
           </div>
         </div>
       </section>
-      <Gallery/>
+      <Gallery />
+      <Services />
       {/* <section class="py-5 bg-light">
         <div class="container py-5">
           <header class="mb-5">

@@ -25,7 +25,7 @@ function ContactUs() {
             >
              <i class="fa fa-phone fa-2x mb-4" aria-hidden="true"></i>
               <h4 class="contact-item-title h5 text-uppercase">Phone</h4>
-              <p class="text-sm mb-0">0712345678</p>
+              <p class="text-sm mb-0">+254719346630</p>
             </a>
           </div>
           <div class="card col-lg-3 col-md-6">
@@ -45,7 +45,7 @@ function ContactUs() {
             >
              <i class="fa fa-envelope fa-2x mb-4" aria-hidden="true"></i>
               <h4 class="contact-item-title h5 text-uppercase">Email</h4>
-              <p class="text-sm mb-0">info@siran.com</p>
+              <p class="text-sm mb-0">victorchelimo44@gmail.com</p>
             </a>
           </div>
         </div>
