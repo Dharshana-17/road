@@ -5,7 +5,7 @@ function Footer() {
     <footer class="bg-dark">
       <div class="container text-center">
         <p class="font-italic text-muted mb-0">
-          &copy; Copyright siran.co.ke  All rights reserved.
+          &copy; Copyright S.d.co.ke  All rights reserved.
         </p>
       </div>
     </footer>

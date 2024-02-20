@@ -15,7 +15,7 @@ function ContactUs() {
             >
               <i class="fas fa-map-marker-alt fa-2x mb-4"></i>
               <h4 class="contact-item-title h5 text-uppercase">Location</h4>
-              <p class="text-sm mb-0">Nairobi, Kenya</p>
+              <p class="text-sm mb-0">Avalpoondurai, Erode</p>
             </a>
           </div>
           <div class="card col-lg-3 col-md-6">
@@ -25,19 +25,10 @@ function ContactUs() {
             >
              <i class="fa fa-phone fa-2x mb-4" aria-hidden="true"></i>
               <h4 class="contact-item-title h5 text-uppercase">Phone</h4>
-              <p class="text-sm mb-0">+254719346630</p>
+              <p class="text-sm mb-0">+91-9842936368</p>
             </a>
           </div>
-          <div class="card col-lg-3 col-md-6">
-            <a
-              class="px-4 py-5 text-center contact-item shadow-sm reset-anchor d-block"
-              href="www.example.com"
-            >
-              <i class="fa fa-globe fa-2x mb-4"></i>
-              <h4 class="contact-item-title h5 text-uppercase">Website</h4>
-              <p class="text-sm mb-0">www.siran.co.ke</p>
-            </a>
-          </div>
+         
           <div class="card col-lg-3 col-md-6">
             <a
               class="px-4 py-5 text-center contact-item shadow-sm reset-anchor d-block"
@@ -45,7 +36,7 @@ function ContactUs() {
             >
              <i class="fa fa-envelope fa-2x mb-4" aria-hidden="true"></i>
               <h4 class="contact-item-title h5 text-uppercase">Email</h4>
-              <p class="text-sm mb-0">victorchelimo44@gmail.com</p>
+              <p class="text-sm mb-0">mahasakthi23370@gmail.com</p>
             </a>
           </div>
         </div>

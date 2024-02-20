@@ -5,9 +5,9 @@ import AboutUs from "./components/Home/AboutUs";
 import ContactUs from "./components/Home/ContactUs";
 import Footer from "./components/Home/Footer";
 import Home from "./components/Home/Home";
-import OurTeam from "./components/Home/OurTeam";
 import Nav from "./components/Navbar/Nav";
 import Navbar from "./components/Navbar/Navbar";
+import ExpenseCalculator from "./components/Expense/ExpenseCalculator";
 
 function App() {
   return (
@@ -15,9 +15,9 @@ function App() {
       <Nav/>
       <Navbar />
       <Home />
-      {/* <Gallery /> */}
+      <ExpenseCalculator/>
+       <Gallery />
       <AboutUs />
-      <OurTeam />
       <ContactUs />
       <Footer />
     </React.Fragment>

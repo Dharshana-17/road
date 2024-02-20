@@ -7,37 +7,8 @@ function Gallery() {
       <div className="card  container mt-2">
         <Carousel className="container-dark">
           <Carousel.Item className=" carousel slide  carousel-dark mt-5">
-            <div class="carosel-item active">
-              <img
-                width="500"
-                class="img-fluid p-2"
-                src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG91c2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
-                alt="image 1"
-              />{" "}
-              <img
-                width="500"
-                class="img-fluid"
-                src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG91c2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
-                alt="avatar"
-              />
-              <ul class="list-unstyled d-flex justify-content-center text-warning mb-0">
-                <li>
-                  <i class="fas fa-star fa-sm"></i>
-                </li>
-                <li>
-                  <i class="fas fa-star fa-sm"></i>
-                </li>
-                <li>
-                  <i class="fas fa-star fa-sm"></i>
-                </li>
-                <li>
-                  <i class="fas fa-star fa-sm"></i>
-                </li>
-                <li>
-                  <i class="far fa-star fa-sm"></i>
-                </li>
-              </ul>
-            </div>
+           
+              
           </Carousel.Item>
           <Carousel.Item className="text-center carousel slide text-center carousel-dark mt-5">
             <div class="carosel-item">
@@ -45,14 +16,14 @@ function Gallery() {
                 width="500"
                 height="500"
                 class="img-fluid p-2"
-                src="https://images.unsplash.com/photo-1605146769289-440113cc3d00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aG91c2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+                src="https://img.freepik.com/free-vector/road-surface-background_1284-72692.jpg"
                 alt="avatar"
               />
               <img
                 width="500"
                 height="500"
                 class="img-fluid"
-                src="https://images.unsplash.com/photo-1605146769289-440113cc3d00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aG91c2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+                src="https://c1.wallpaperflare.com/preview/734/797/226/construction-site-building-concrete.jpg"
                 alt="avatar"
               />
 
@@ -81,14 +52,14 @@ function Gallery() {
                 width="500"
                 height="500"
                 class="img-fluid p-2"
-                src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGhvdXNlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+                src="https://media.istockphoto.com/id/528964544/photo/road-rollers-working-on-the-construction-site-aerial-view.jpg?s=612x612&w=0&k=20&c=EMoIkiZ8Itc1rAnZEl3jK2YhRb9SKZ48RbEZO7swSvs="
                 alt="avatar"
               />
               <img
                 width="500"
                 height="500"
                 class="img-fluid"
-                src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGhvdXNlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv9bt5CRq72KybYe5In7gqcHP6Y39iyH6POA&usqp=CAU"
                 alt="avatar"
               />
 

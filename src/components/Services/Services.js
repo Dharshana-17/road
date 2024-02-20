@@ -6,13 +6,12 @@ function Services() {
     <div className="gallery mt-5 mb-5" id="services">
       <div className="card  container mt-2">
       <h3>We provide engineering construction services such as: </h3>
-    <li>Architectural designs for houses and building structures.</li>
-    <li>Renovation of building works.</li>
-    <li>Landscaping</li>
-    <li>Fencing</li>
-    <li>Painting</li>
-    <li>Plumbing</li>
-    <li>Finishing services e.g. plastering, Rendering, Gypsum application.</li>
+    <li>Precision Road Design and Engineering</li>
+    <li>Asphalt Paving, Maintenance, and Repair</li>
+    <li>State-of-the-Art Bridge Construction and Rehabilitation</li>
+    <li>Efficient Drainage Solutions and Stormwater Management</li>
+    <li>Advanced Traffic Control Systems and Signage</li>
+    <li>Eco-Friendly Practices and Sustainable Construction Methodologies</li>
       </div>
     </div>
   );

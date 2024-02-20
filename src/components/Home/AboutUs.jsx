@@ -3,43 +3,41 @@ import React from "react";
 function AboutUs() {
   return (
     <div id="about">
-      <div class="bg-light">
-        <div class="container py-5">
-          <div class="row h-100 align-items-center py-5">
-            <div class=" card text-center col-lg-6">
-              <h1 class="display-4">About us</h1>
-              <p class="lead text-muted mb-0">
-                Siran Construction Limited. is an ambitious construction company
-                that specializes in residential and commercial building
-                projects. With a team of highly skilled and experienced
-                professionals, they are committed to delivering high-quality
-                workmanship and exceptional customer service. They have
-                extensive experience in all aspects of construction, including
-                project management, site preparation, and finish work. They are
-                known for their attention to detail and ability to work closely
-                with clients to ensure that their vision is brought to life.
-                They are dedicated to building sustainable and energy-efficient
-                structures, and use the latest technologies and building
-                materials to ensure that their projects are built to last. With
-                a strong commitment to safety and a passion for excellence,
-                Siran is poised to become a leader in the industry.
-              </p>
-              <p class="lead text-muted">
-                Snippet by{" "}
-                <a href="https://siranlimited.web.app/" class="text-muted">
-                  <u>Siran Construction Limited</u>
-                </a>
+      <div className="bg-light">
+        <div className="container py-5">
+          <div className="row h-100 align-items-center py-5">
+            <div className="card text-center col-lg-6">
+              <h1 className="display-4">About us</h1>
+              <p className="lead text-muted mb-0">
+                S.D Constructions is a premier road construction firm focused
+                on reshaping infrastructure through innovation and commitment.
+                With our establishment in 2017, we've led the industry in
+                delivering top-tier road construction solutions. Our dedication
+                to quality has strengthened community bonds, boosted commerce,
+                and improved mobility. Specializing in a range of services,
+                from road design to asphalt paving and bridge construction, we
+                ensure excellence in every project. Client satisfaction is
+                paramount, driving our collaborative approach and tailored
+                solutions. Safety is ingrained in our culture, prioritizing
+                the well-being of our team and stakeholders. Sustainability is
+                a core value, guiding our eco-friendly practices and resource
+                conservation efforts. Our portfolio showcases diverse and
+                successful projects across sectors, showcasing our expertise
+                and reliability for your next project and experience
+                unparalleled professionalism and results. Contact us today to
+                explore our services and begin a journey of progress and
+                innovation.
               </p>
 
-              <blockquote class="blockquote text-center">
-                <p class="mb-0">"Building your dreams, brick by brick"</p>
+              <blockquote className="blockquote text-center">
+                <p className="mb-0">"Building your dreams, brick by brick"</p>
               </blockquote>
             </div>
-            <div class="col-lg-6">
+            <div className="col-lg-6">
               <img
-                src="https://images.unsplash.com/photo-1531971589569-0d9370cbe1e5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bHV4dXJ5JTIwaG91c2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+                src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FLaser-based-system-used-for-road-construction-in-Asphalt-paver-machine-used-in-developed_fig5_329526416&psig=AOvVaw35AAiKuR3y6uY6LcXSvxeh&ust=1708263688906000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCQgc-_soQDFQAAAAAdAAAAABAY"
                 alt=""
-                class="img-fluid"
+                className="img-fluid"
                 style={{ border: "none" }}
               />
             </div>
@@ -47,49 +45,48 @@ function AboutUs() {
         </div>
       </div>
 
-      <div class="bg-white py-5">
-        <div class="container py-5">
-          <div class="row align-items-center mb-5">
-            <div class="col-lg-6 order-2 order-lg-1">
-              <i class="fa fa-bar-chart fa-2x mb-3 text-primary"></i>
-              <div className="card text-center"style={{borderRadius: "100px" }} >
-                <h2 class="font-weight-dark">Our Vision</h2>
-                <p class="font-monospace ">
-                  ``To enhance management and building a strong team to strive
-                  towards a sustainable environment for engineering design and
-                  improvement of housing standards``{" "}
+      <div className="bg-white py-5">
+        <div className="container py-5">
+          <div className="row align-items-center mb-5">
+            <div className="col-lg-6 order-2 order-lg-1">
+              <div className="card text-center" style={{ borderRadius: "100px", backgroundColor: "#B0E0E6", padding: "30px" }}>
+                <h2 className="font-weight-dark">Our Vision</h2>
+                <p className="font-monospace">
+                  At S.D Constructions, our vision is to be the premier choice
+                  for comprehensive road construction services, driven by
+                  innovation, integrity, and sustainability. We aim to forge
+                  enduring partnerships, champion safety and environmental
+                  stewardship, and leave an indelible mark of progress in
+                  every community we touch.
                 </p>
-
               </div>
             </div>
-            <div class="col-lg-5 px-5 mx-auto order-1 order-lg-2">
+            <div className="col-lg-5 px-5 mx-auto order-1 order-lg-2">
               <img
                 src="https://images.unsplash.com/photo-1579847188804-ecba0e2ea330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNvbnN0cnVjdGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
                 alt=""
-                class="img-fluid rounded-circle mb-lg-3"
+                className="img-fluid rounded-circle mb-lg-3"
               />
             </div>
           </div>
-          <div class="row align-items-center">
-            <div class="col-lg-5 px-5 mx-auto">
+          <div className="row align-items-center">
+            <div className="col-lg-5 px-5 mx-auto">
               <img
-                src="https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGx1eHVyeSUyMGhvdXNlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+                src="https://d3lzcn6mbbadaf.cloudfront.net/media/details/roadconstuction-may7.jpg"
                 alt=""
-                class="img-fluid rounded-circle mb-4 mb-lg-0"
+                className="img-fluid elapsedcircle mb-4 mb-lg-0"
+                style={{ borderRadius: "50%", width: "300px", height: "300px", objectFit: "cover" }}
               />
             </div>
-            <div class="col-lg-6">
-              <div className="card text-center"style={{borderRadius: "300px" }} >
-              <i class="fa fa-leaf fa-2x mb-3 text-primary"></i>
+            <div className="col-lg-6">
+              <div className="card text-center" style={{ borderRadius: "300px", backgroundColor: "#B0E0E6", padding: "30px" }}>
+                <i className="fa fa-leaf fa-2x mb-3 text-primary"></i>
 
-              <h2 class="font-weight-light">Our Mission</h2>
-              <p class="font-monospace mb-5">
-                Aiming to change the phase of Africa by providing quality
-                design, efficient, affordable, sustainable, cost effective
-                services
-              </p>
+                <h2 className="font-weight-light">Our Mission</h2>
+                <p className="font-monospace mb-5">
+                Our mission is to deliver top-tier construction services that revolutionize infrastructure. We strive to provide exceptional quality, efficiency, and affordability in our projects while prioritizing sustainability and environmental responsibility. Through innovative solutions and a commitment to excellence, we aim to exceed client expectations, foster economic growth, and leave a lasting positive impact on communities.
+                </p>
               </div>
-
             </div>
           </div>
         </div>
